@@ -5,6 +5,10 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url("https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fattach.bbs.miui.com%2Fforum%2F201403%2F02%2F092241w9f4vaz8peovfe91.jpg&refer=http%3A%2F%2Fattach.bbs.miui.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1611997781&t=92f382676e3e38bc871c5c3dab20b653");
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding:60px;
 }
 
 code {
